@@ -1,0 +1,12 @@
+{
+  "name": "fullstack-question-1",
+  "version": "1.0.0",
+  "description": "JavaScript Array Methods Practice Solutions",
+  "main": "arrayMethods.js",
+  "scripts": {
+    "start": "node arrayMethods.js",
+    "test": "node arrayMethods.js"
+  },
+  "author": "Arshdeep Singh (24BCS10184)",
+  "license": "ISC"
+}
